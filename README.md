@@ -46,7 +46,6 @@ The project answers questions such as:
 - `WHERE`
 - `ORDER BY`
 - `GROUP BY`
-- `HAVING`
 - Aggregate Functions (`AVG`, `COUNT`, `SUM`, `MAX`)
 - `CASE WHEN`
 - `INNER JOIN`
@@ -55,10 +54,6 @@ The project answers questions such as:
 - `UNION ALL`
 - Window Functions
   - `ROW_NUMBER()`
-  - `RANK()`
-  - `DENSE_RANK()`
-  - `LAG()`
-  - `LEAD()`
 
 ## 📊 Key Concepts Practiced
 
@@ -71,6 +66,9 @@ This project focuses on:
 - Ranking records within groups
 - Using window functions for analytical queries
 - Extracting insights from real-world data
+
+- ## Dataset Source
+[Kaggle - 100,000 UK Used Car Dataset](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes)
 
 ## 💻 Tools
 
