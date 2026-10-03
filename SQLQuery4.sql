@@ -4,7 +4,7 @@ USED CARS SQL ANALYSIS PROJECT
 ===========================================================
 
 Dataset:
-Audi, BMW, Ford, Hyundai, Mercedes, Skoda, Toyota
+Audi, BMW, Mercedes
 
 Topics:
 - UNION ALL
